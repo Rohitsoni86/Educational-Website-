@@ -1,0 +1,44 @@
+[
+  {
+    "id": "59761c23b30d971669fb42ff",
+    "isActive": true,
+    "age": 36,
+    "name": "Dunlap Hubbard",
+    "profilephoto": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-profile-glyph-black-icon-png-image_691589.jpg",
+    "gender": "male",
+    "company": "CEDWARD",
+    "email": "dunlaphubbard@cedward.com",
+    "token": "dunlap59761c23b30d971669fb42ff",
+    "password": "dunlaphubbard@cedward.com",
+    "phone": "+1 (890) 543-2508",
+    "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
+  },
+  {
+    "id": "59761c233d8d0f92a6b0570d",
+    "isActive": true,
+    "age": 24,
+    "name": "Kirsten Sellers",
+    "profilephoto": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-profile-glyph-black-icon-png-image_691589.jpg",
+    "gender": "female",
+    "company": "EMERGENT",
+    "email": "kirstensellers@emergent.com",
+    "token": "kirsten59761c233d8d0f92a6b0570d",
+    "password": "kirstensellers@emergent.com",
+    "phone": "+1 (831) 564-2190",
+    "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+  },
+  {
+    "id": "59761c23fcb6254b1a06dad5",
+    "isActive": true,
+    "age": 30,
+    "name": "Acosta Robbins",
+    "profilephoto": "https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-profile-glyph-black-icon-png-image_691589.jpg",
+    "gender": "male",
+    "company": "ORGANICA",
+    "email": "acostarobbins@organica.com",
+    "token": "acosta59761c23fcb6254b1a06dad5",
+    "password": "acostarobbins@organica.com",
+    "phone": "+1 (882) 441-3367",
+    "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+  }
+]

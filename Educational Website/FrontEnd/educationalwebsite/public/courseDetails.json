@@ -1,0 +1,293 @@
+[
+   {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/0*WixoUPy1m0m_smHb.png",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+         "Basic JavaScript knowledge",
+         "Familiarity with React"
+      ],
+      "syllabus": [
+         {
+            "week": 1,
+            "topic": "Introduction to React Native",
+            "content": "Overview of React Native, setting up your development environment."
+         },
+         {
+            "week": 2,
+            "topic": "Building Your First App",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 3,
+            "topic": "Control Structures",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 4,
+            "topic": "Functions",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 5,
+            "topic": "Lists and Loops",
+            "content": "Bliffleplorp zibberjibber flibberblort jankleflap dribblegunk."
+         },
+         {
+            "week": 6,
+            "topic": "VDictionaries and File I/O",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 7,
+            "topic": "Object-Oriented Programming",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 8,
+            "topic": "Final Project",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         }
+      ],
+      "students": [
+         {
+            "id": "59761c233d8d0f92a6b0570d",
+            "name": "Kirsten Sellers",
+            "email": "kirstensellers@emergent.com",
+            "completed": false
+         },
+         {
+            "id": "59761c23fcb6254b1a06dad5",
+            "name": "Acosta Robbins",
+            "email": "acostarobbins@organica.com",
+            "completed": false
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Introduction to Programming",
+      "instructor": "Regf FSD",
+      "description": "Learn the basics of Programming and build your first app.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://www.ed2go.com/common/images/1/17160/programmer/jpg.jpg",
+      "duration": "8 weeks",
+      "location": "Online",
+      "prerequisites": [
+         "Basics of Computers"
+      ],
+      "syllabus": [
+         {
+            "week": 1,
+            "topic": "Introduction to Python",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 2,
+            "topic": "Variables and Data Types",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 3,
+            "topic": "Control Structures",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 4,
+            "topic": "Functions",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 5,
+            "topic": "Lists and Loops",
+            "content": "Bliffleplorp zibberjibber flibberblort jankleflap dribblegunk."
+         },
+         {
+            "week": 6,
+            "topic": "VDictionaries and File I/O",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 7,
+            "topic": "Object-Oriented Programming",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 8,
+            "topic": "Final Project",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         }
+      ],
+      "students": [
+         {
+            "id": "59761c233d8d0f92a6b0570d",
+            "name": "Kirsten Sellers",
+            "email": "kirstensellers@emergent.com",
+            "completed": false
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Web Development 101",
+      "instructor": "Jane Smith",
+      "description": "Learn the basics of Web Development and build your first website.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1358/1*RI4uEITfwqJoGQW2Hvipeg.png",
+      "location": "Online",
+      "duration": "10 weeks",
+      "prerequisites": [
+         "HTML",
+         "CSS"
+      ],
+      "syllabus": [
+         {
+            "week": 1,
+            "topic": "Introduction to HTML",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 2,
+            "topic": "Introduction to CSS",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 3,
+            "topic": "Responsive Design",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 4,
+            "topic": "JavaScript Basics",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 5,
+            "topic": "DOM Manipulation",
+            "content": "Bliffleplorp zibberjibber flibberblort jankleflap dribblegunk."
+         },
+         {
+            "week": 6,
+            "topic": "Forms and Validation",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 7,
+            "topic": "Introduction to Backend",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 8,
+            "topic": "APIs and AJAX",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 9,
+            "topic": "Frontend Frameworks",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 10,
+            "topic": "Final Project",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         }
+      ],
+      "students": [
+         {
+            "id": "59761c233d8d0f92a6b0570d",
+            "name": "Kirsten Sellers",
+            "email": "kirstensellers@emergent.com",
+            "completed": false
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Data Science Essentials",
+      "instructor": "Emily Brown",
+      "description": "Learn Data Science",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://www.besanttechnologies.com/wp-content/uploads/2018/11/what-is-data-science.jpg",
+      "location": "Online",
+      "duration": "12 weeks",
+      "prerequisites": [
+         "Python Programming"
+      ],
+      "syllabus": [
+         {
+            "week": 1,
+            "topic": "Introduction to Data Science",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 2,
+            "topic": "Data Wrangling",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 3,
+            "topic": "Data Exploration",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 4,
+            "topic": "Data Visualization",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 5,
+            "topic": "Statistics for Data Science",
+            "content": ""
+         },
+         {
+            "week": 6,
+            "topic": "Machine Learning Basics",
+            "content": "Snobbleplink flibberwump zobblejib snarkleplap dribberglip."
+         },
+         {
+            "week": 7,
+            "topic": "Supervised Learning",
+            "content": "Creating a simple mobile app using React Native components."
+         },
+         {
+            "week": 8,
+            "topic": "Unsupervised Learning",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 9,
+            "topic": "Deep Learning",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 10,
+            "topic": "Natural Language Processing",
+            "content": "Bliffleplorp zibberjibber flibberblort jankleflap dribblegunk."
+         },
+         {
+            "week": 11,
+            "topic": "Final Project",
+            "content": "Splorfleblib zibberflap dinglewump snibberplunk wobblegunk."
+         },
+         {
+            "week": 12,
+            "topic": "Capstone Presentation",
+            "content": "Bliffleplorp zibberjibber flibberblort jankleflap dribblegunk."
+         }
+      ],
+      "students": [
+         {
+            "id": "59761c233d8d0f92a6b0570d",
+            "name": "Kirsten Sellers",
+            "email": "kirstensellers@emergent.com",
+            "completed": false
+         }
+      ]
+   }
+]
